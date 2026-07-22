@@ -31,6 +31,16 @@ Complete network design and configuration for TUF covering Amin Campus and Salee
 
 ---
 
+## 🗺️ Network Topology
+
+### Amin Campus
+<img src="AMIN_IMAGE_NAAM.png" width="800"/>
+
+### Saleem Campus
+<img src="SALEEM_IMAGE_NAAM.png" width="800"/>
+
+---
+
 ## 📂 Files
 - `TUF_Network_Design.pkt` — Cisco Packet Tracer Project File
 - `TUF_Network_Project_Report.pdf` — Complete Project Report
