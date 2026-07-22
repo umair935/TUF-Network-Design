@@ -34,10 +34,10 @@ Complete network design and configuration for TUF covering Amin Campus and Salee
 ## 🗺️ Network Topology
 
 ### Amin Campus
-<img src="AMIN_IMAGE_NAAM.png" width="800"/>
+<img src="Screenshot%202026-07-22%20151154.png" width="800"/>
 
 ### Saleem Campus
-<img src="SALEEM_IMAGE_NAAM.png" width="800"/>
+<img src="Screenshot%202026-07-22%20151219.png" width="800"/>
 
 ---
 
